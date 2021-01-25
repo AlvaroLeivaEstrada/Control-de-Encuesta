@@ -8,7 +8,7 @@ Desafíos:
 Se requiere:
 1. Registro.
         Se genero un modelo llamado User el cual contiene los atributos que representan a un usuario que desee utilizar la aplicación, se creo la vista del usuario, por donde las peticiones entraran en:\n
-        Sign up : localhost:8000/users/signup/ por el método post. \n
+        Sign up : localhost:8000/users/signup/ por el método post. /n
         Login : localhost:8000/users/login/ por el metodo post\n
         allusers : localhost:8000/users/allusers/ por el metodo get\n
 2. CRUD encuestas, cada encuesta puede tener múltiples preguntas\n
